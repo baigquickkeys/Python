@@ -1,2 +1,2 @@
 # Python
-Here are my python project which i have completed myself
+Here are my python projects which i have completed myself
